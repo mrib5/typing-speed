@@ -1,5 +1,5 @@
 # typing-speed
-Find out your typing speed, how many words and characters per minute.
+Find out your typing speed, how many words per minute.
 
 Python 3.7.3 was used, with the following libraries;
 random, time, re
